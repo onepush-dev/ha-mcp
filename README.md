@@ -2,7 +2,7 @@
 
 [HA-MCP](https://github.com/homeassistant-ai/ha-mcp) (MIT) — an MCP server with 86 tools that lets Claude, ChatGPT and other AI assistants search, control, configure and automate your Home Assistant. This template runs it as an always-on HTTPS server with **OAuth sign-in**: each user authorizes with their own Home Assistant long-lived access token. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/cK_5G5)
 
 ## What this template runs
 
